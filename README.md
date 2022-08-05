@@ -1,15 +1,14 @@
 ## About
-That's an incomplete list of web3 Twitter accounts, 
+That's an incomplete list of web3 Twitter accounts 
 that might be useful for a beginner in the space. 
 
-Those people/organizations live in the web3 and are
+These people/organizations live in the web3 and are
 deeply connected with other content creators in the industry. 
 
-Some of them tweet useful materials, 
-some of them publish their essays, and some of them like and retweet ones who share knowledge.
+Some of them tweet useful materials, some of them publish their essays, and some of them like and retweet those who share knowledge.
 
-The list is initially based on my followings and wildly lacks great authors, whom I don't know. 
-I am sure it might be an infinite list, but those are the lands I could only reach.
+The list is initially based on my followings and wildly lacks great authors whom I don't know. 
+I am sure it might be an infinite list, but these are the only accounts I enjoy by myself.
 
 ## Actively Teaches Web3 (useful threads and articles)
 
